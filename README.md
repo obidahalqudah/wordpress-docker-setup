@@ -121,10 +121,12 @@ or if you are using a server:
 ```
 http://your-server-ip:8000
 ```
+![image](https://github.com/user-attachments/assets/dc25e0f2-0daa-4d24-8d5f-029228fd1ce3)
 
 You will see the WordPress installation page.
 
 ---
+![image](https://github.com/user-attachments/assets/ef255cb6-0aef-40dd-b786-7eecc15d72dd)
 
 ## 🔥 Managing Containers
 
