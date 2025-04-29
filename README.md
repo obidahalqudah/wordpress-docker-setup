@@ -1,7 +1,5 @@
 # WordPress Installation Using Docker on Ubuntu
 
-![WordPress Logo](your-image-link-here)
-
 ## 📖 Project Overview
 This project demonstrates **how to install and run WordPress using Docker and Docker Compose** on an Ubuntu server.  
 It simplifies the setup of a full WordPress environment (WordPress + MySQL) in a few commands.
@@ -144,15 +142,6 @@ docker-compose down
 docker-compose restart
 ```
 
----
-
-## 📸 Example Screenshots
-> *(Add your screenshots here after each step)*
-
-| Step | Screenshot |
-|:----:|:-----------:|
-| Docker Services Up | ![docker-compose up](your-image-link-here) |
-| WordPress Installation Page | ![wordpress-installation-page](your-image-link-here) |
 
 
 
@@ -163,11 +152,6 @@ docker-compose restart
 - Data persistence is enabled using Docker volumes (`wordpress_data`, `db_data`).
 
 
-
-## 📈 Future Improvements
-- Add support for SSL with Let's Encrypt.
-- Use `.env` file to manage environment variables securely.
-- Set up auto backup for database.
 
 
 # ⭐ Give it a Star!
