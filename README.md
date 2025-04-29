@@ -103,6 +103,7 @@ cd wordpress-docker-setup
 ```bash
 docker-compose up -d
 ```
+![image](https://github.com/user-attachments/assets/af125046-acc3-477d-a58d-63e92ca27eb1)
 
 This will:
 - Download WordPress and MySQL images if they are not already present.
