@@ -95,7 +95,7 @@ volumes:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/wordpress-docker-setup.git
+git clone https://github.com/obidahalqudah/wordpress-docker-setup.git
 cd wordpress-docker-setup
 ```
 
